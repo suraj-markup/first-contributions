@@ -4,3 +4,4 @@
 |  Sudhanshu | maintainer |
 |  Harsh   |  maintainer |
 | Priyanshu | designer |
+| Ritik jha | Member |
