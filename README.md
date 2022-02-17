@@ -1,2 +1,4 @@
 # test
-a repo to educate students.
+| name | designation |
+|:----: | :---- : |
+|Sudhanshu | maintainer |
