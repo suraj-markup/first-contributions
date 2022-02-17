@@ -1,6 +1,5 @@
 # test
-|      Are      |  Cool |
+|      Member      |  Designation |
 |:-------------:|------:|
-|  left-aligned | $1600 |
-|    centered   |   $12 |
-| right-aligned |    $1 |
+|  Sudhanshu | maintainer |
+|  Harsh   |  maintainer |
