@@ -6,3 +6,4 @@
 |  Harsh   |  maintainer |
 | Priyanshu | designer |
 | Ritik jha | Member |
+| Akash Kumar| Member |
