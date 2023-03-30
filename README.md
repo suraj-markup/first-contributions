@@ -7,3 +7,4 @@
 |    Harsh     |  Maintainer  |
 |    Yugank    |    Member    |
 |    Mayank    |    Member    |
+|  Mitali      |    Member   |
