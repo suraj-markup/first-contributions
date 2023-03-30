@@ -9,3 +9,5 @@
 |    Mayank    |    Member    |
 |  Mitali      |    Member   |
 | Surjeet      |   Member    |
+| Ritul      |   Member    |
+| Ritik      |   Member    |
