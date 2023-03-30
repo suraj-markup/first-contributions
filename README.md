@@ -6,3 +6,4 @@
 |   Avinash    |     Member |
 |    Harsh     |  Maintainer |
 |    Yugank    |    Member   |
+| Surjeet      |   Member      |
