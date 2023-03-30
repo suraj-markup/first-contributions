@@ -1,9 +1,10 @@
 # test
 
-|    Member    | Designation |
+|    Member    | Designation  |
 | :----------: | :----------: |
-|  Sudhanshu   |  Maintainer |
-|   Avinash    |     Member |
-|    Harsh     |  Maintainer |
-|    Yugank    |    Member   |
+|  Sudhanshu   |  Maintainer  |
+|   Avinash    |     Member   |
+|    Harsh     |  Maintainer  |
+|    Yugank    |    Member    |
+|    Mayank    |    Member    |
 |  Mitali      |    Member   |
