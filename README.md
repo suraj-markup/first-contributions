@@ -4,16 +4,10 @@
 
 <div align="center">
   
-|    Member    | Designation |
-| :----------: | :---------: |
-| Sudhanshu   |  Maintainer |
-|  Avinash    |  Member     |
-| Harsh       |  Maintainer |
-| Yugank      |    Member   |
-| Mayank      |    Member   |
-| Mitali      |    Member   |
-| Surjeet     |   Member    |
-| Ritul       |   Member    |
-| Ritik       |   Member    |
+| Serial No. |    Member    | Designation |
+| :--------: | :----------: | :---------: |
+| 1          | Sudhanshu    |  Maintainer |
+| 2          | Harsh        |  Maintainer |
+
 
 </div>
