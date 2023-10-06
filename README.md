@@ -1,6 +1,6 @@
 <h1 align="center"> Team Tesla </h1><br/>
 
-<p align="center" > <img height="300px" src="pexels-belle-co-1000445.jpg"/></p>
+<p align="center" > [pexels-belle-co-1000445.jpg](https://github.com/SudhansuuRanjan/First-Contribution/raw/main/pexels-belle-co-1000445.jpg)</p>
 
 <div align="center">
   
