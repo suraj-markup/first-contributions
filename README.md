@@ -8,7 +8,9 @@
 | :--------: | :----------: | :---------: |
 | 1          | Sudhanshu    |  Maintainer |
 | 2          | Harsh        |  Maintainer |
-|3.          | Suraj        | Member      |
+| 3.         | Suraj        | Member      |
+| 3.         | Suraj kumar  | Member      |
+
 
 
 </div>
